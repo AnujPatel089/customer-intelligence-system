@@ -1,9 +1,6 @@
 streamlit
-numpy
 pandas
-markdown-it-py
-mdurl
-pygments
-rich
-joblib
+numpy
 matplotlib
+joblib
+scikit-learn
